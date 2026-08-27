@@ -1,8 +1,9 @@
 public class Week17CapstoneStarter {
 
     public static void main(String[] args) {
-        System.out.println("Core feature: TODO");
-        System.out.println("Stretch feature: TODO");
-        System.out.println("Topics used: variables, methods, loops, objects");
+        // TODO: List one core feature for your capstone.
+        // TODO: List one stretch feature for your capstone.
+        // TODO: Note which Java topics the project will use.
+        System.out.println("Replace the TODO notes with your capstone plan.");
     }
 }

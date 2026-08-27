@@ -68,7 +68,7 @@ Use the same compile command for every chapter, replacing `chXX` with the desire
 .\scripts\jar-chapter.ps1 -Chapter ch01 -MainClass Hello
 ```
 
-The script defaults assume a Windows teaching machine rooted at `D:\java\ThinkJava101`. If your source or build paths differ, pass the optional script parameters to point at the correct folders.
+The script defaults assume a Windows teaching machine rooted at `D:\java\ThinkJava101`. If your source or build paths differ, pass the optional script parameters to point at the correct folders: `compile-chapter.ps1` accepts `-SourceRoot` and `-BuildRoot`, while `run-chapter.ps1` and `jar-chapter.ps1` accept `-BuildRoot`.
 
 ## Pilot and refinement checklist
 - Pilot Weeks 01-03 with a small group or first live section.
