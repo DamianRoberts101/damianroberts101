@@ -3,13 +3,13 @@
 This repository is organized as a chapter-aligned teaching workspace for *Think Java, 2nd Edition*.
 
 ## Repository layout
-- `/home/runner/work/java101/java101/book-code/ThinkJavaCode2` -> canonical book examples and starter code (`ch01`..`ch17`, `appa`..`appd`)
-- `/home/runner/work/java101/java101/class-notes/week01` .. `/home/runner/work/java101/java101/class-notes/week17` -> instructor weekly teaching modules
-- `/home/runner/work/java101/java101/student-work/_template` -> copyable weekly student starter workspace
-- `/home/runner/work/java101/java101/docs/instructor-guide.md` -> instructor quick-start, pacing, and delivery notes
-- `/home/runner/work/java101/java101/docs/student-onboarding.md` -> student setup and workflow guide
-- `/home/runner/work/java101/java101/build` -> generated compiled classes per chapter (ignored)
-- `/home/runner/work/java101/java101/dist` -> generated jar outputs per chapter (ignored)
+- `book-code/ThinkJavaCode2` -> canonical book examples and starter code (`ch01`..`ch17`, `appa`..`appd`)
+- `class-notes/week01` .. `class-notes/week17` -> instructor weekly teaching modules
+- `student-work/_template` -> copyable weekly student starter workspace
+- `docs/instructor-guide.md` -> instructor quick-start, pacing, and delivery notes
+- `docs/student-onboarding.md` -> student setup and workflow guide
+- `build` -> generated compiled classes per chapter (ignored)
+- `dist` -> generated jar outputs per chapter (ignored)
 
 ## Course shape
 The workspace now supports a full 17-week Java 101 sequence with one instructional unit per `Think Java` chapter.
@@ -21,14 +21,14 @@ The workspace now supports a full 17-week Java 101 sequence with one instruction
 ## Teaching workflow
 Use the book code as the canonical example set and keep instructor/student authored work in the teaching folders.
 
-1. Choose the week in `/home/runner/work/java101/java101/class-notes`.
+1. Choose the week in `class-notes`.
 2. Review the chapter demos listed for that week.
 3. Compile the chapter with the PowerShell script.
 4. Run one or more example classes during lecture.
-5. Distribute the matching folder from `/home/runner/work/java101/java101/student-work/_template`.
+5. Distribute the matching folder from `student-work/_template`.
 
 ## Scripts
-All scripts live in `/home/runner/work/java101/java101/scripts`.
+All scripts live in `scripts`.
 
 ### 1) Compile a chapter
 ```powershell
@@ -53,7 +53,7 @@ Example: `-MainClass com.example.app.Main`
 The included automation is PowerShell-first because the existing classroom scripts target that workflow. On non-Windows systems, instructors can still compile and run the book examples directly with `javac` and `java`, or adapt the script parameters to local paths.
 
 ## Where to start
-- Instructors: see `/home/runner/work/java101/java101/docs/instructor-guide.md`
-- Students: see `/home/runner/work/java101/java101/docs/student-onboarding.md`
-- Weekly teaching plans: see `/home/runner/work/java101/java101/class-notes/README.md`
-- Weekly starter workspace: see `/home/runner/work/java101/java101/student-work/README.md`
+- Instructors: see `docs/instructor-guide.md`
+- Students: see `docs/student-onboarding.md`
+- Weekly teaching plans: see `class-notes/README.md`
+- Weekly starter workspace: see `student-work/README.md`

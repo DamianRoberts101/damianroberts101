@@ -1,6 +1,6 @@
 # Instructor Guide
 
-This guide turns the repository into a repeatable Java 101 teaching workspace built around `/home/runner/work/java101/java101/book-code/ThinkJavaCode2`.
+This guide turns the repository into a repeatable Java 101 teaching workspace built around `book-code/ThinkJavaCode2`.
 
 ## Teaching assumptions
 - Full 17-week sequence by default
@@ -9,7 +9,7 @@ This guide turns the repository into a repeatable Java 101 teaching workspace bu
 - Book code remains read-only reference material; instructor demos and student work live outside `/book-code`
 
 ## Weekly delivery routine
-1. Open the matching folder in `/home/runner/work/java101/java101/class-notes/weekXX`.
+1. Open the matching folder in `class-notes/weekXX`.
 2. Review the learning objectives, demos, practice tasks, and assessment prompts.
 3. Compile the chapter before class:
    ```powershell
@@ -19,7 +19,7 @@ This guide turns the repository into a repeatable Java 101 teaching workspace bu
    ```powershell
    .\scripts\run-chapter.ps1 -Chapter chXX -MainClass ExampleClass
    ```
-5. Copy or distribute the matching folder from `/home/runner/work/java101/java101/student-work/_template/weekXX`.
+5. Copy or distribute the matching folder from `student-work/_template/weekXX`.
 6. Collect submissions outside the repository template or in student-specific folders ignored by the root `.gitignore`.
 
 ## Weekly map
@@ -54,10 +54,10 @@ This guide turns the repository into a repeatable Java 101 teaching workspace bu
 - **Common remediation hotspots:** scanner input, methods with returns, loops, arrays, and object references
 
 ## Repo management notes
-- Keep `/home/runner/work/java101/java101/book-code/ThinkJavaCode2` unchanged so the original examples stay trustworthy.
-- Use `/home/runner/work/java101/java101/class-notes` for lecture-ready notes and pacing adjustments.
-- Use `/home/runner/work/java101/java101/student-work/_template` as the distribution baseline for each new class section.
-- Generated artifacts belong in `/home/runner/work/java101/java101/build` and `/home/runner/work/java101/java101/dist`; both are ignored at the repository root.
+- Keep `book-code/ThinkJavaCode2` unchanged so the original examples stay trustworthy.
+- Use `class-notes` for lecture-ready notes and pacing adjustments.
+- Use `student-work/_template` as the distribution baseline for each new class section.
+- Generated artifacts belong in `build` and `dist`; both are ignored at the repository root.
 
 ## Chapter command reference
 Use the same compile command for every chapter, replacing `chXX` with the desired folder.

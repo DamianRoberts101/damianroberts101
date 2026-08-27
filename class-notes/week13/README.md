@@ -26,7 +26,7 @@
 
 ## Teaching notes
 - Start with the smallest example in the chapter, then move toward the most complete one.
-- Connect the demo back to the student starter tasks in `/home/runner/work/java101/java101/student-work/_template/week13`.
+- Connect the demo back to the student starter tasks in `student-work/_template/week13`.
 - Leave time for students to predict behavior before you run the program.
 
 ## Common mistakes to watch for

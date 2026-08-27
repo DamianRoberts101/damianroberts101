@@ -14,7 +14,7 @@
 - Run the method with at least two starting values.
 
 ## Practice extension
-- Trace a simple recursive count-down.
+- Trace a simple recursive countdown.
 - Match base cases to recursive problem statements.
 
 ## Deliverables

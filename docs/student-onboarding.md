@@ -3,9 +3,9 @@
 Welcome to the Java 101 workspace.
 
 ## What is in this repository?
-- `/home/runner/work/java101/java101/book-code/ThinkJavaCode2` contains the official example code from *Think Java, 2nd Edition*.
-- `/home/runner/work/java101/java101/student-work/_template` contains the weekly starter workspace you should copy before editing.
-- `/home/runner/work/java101/java101/class-notes` contains instructor-facing lesson materials.
+- `book-code/ThinkJavaCode2` contains the official example code from *Think Java, 2nd Edition*.
+- `student-work/_template` contains the weekly starter workspace you should copy before editing.
+- `class-notes` contains instructor-facing lesson materials.
 
 ## Recommended setup
 - Java JDK 11 or newer
@@ -13,7 +13,7 @@ Welcome to the Java 101 workspace.
 - A terminal or PowerShell window for compiling and running files
 
 ## Basic workflow
-1. Copy the current week from `/home/runner/work/java101/java101/student-work/_template/weekXX` into your own working folder.
+1. Copy the current week from `student-work/_template/weekXX` into your own working folder.
 2. Read that week’s `README.md` before changing any files.
 3. Keep the book examples unchanged unless your instructor explicitly asks you to experiment with them.
 4. Compile and run often so you catch mistakes early.

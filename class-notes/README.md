@@ -1,6 +1,6 @@
 # Class Notes Overview
 
-Each `weekXX` folder contains an instructor-facing module aligned to one chapter of `/home/runner/work/java101/java101/book-code/ThinkJavaCode2`.
+Each `weekXX` folder contains an instructor-facing module aligned to one chapter of `book-code/ThinkJavaCode2`.
 
 Every weekly module includes:
 - learning objectives

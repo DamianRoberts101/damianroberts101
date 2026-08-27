@@ -1,6 +1,8 @@
 # Generated classroom outputs
 /build/
 /dist/
+*.class
+*.jar
 
 # Student copies created from the template
 /student-work/*
