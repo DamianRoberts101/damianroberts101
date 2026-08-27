@@ -9,7 +9,7 @@
 - `src/Week02VariablesStarter.java`
 
 ## What to do
-- Fill in the missing age, GPA, and favorite topic values.
+- Fill in the missing name, age, and GPA values.
 - Add one derived value such as years until graduation.
 - Print a sentence that combines numbers and text.
 

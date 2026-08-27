@@ -3,7 +3,7 @@
 - **Chapter:** `ch08`
 - **Tier:** Stretch
 - **Focus:** recursive thinking, base cases, self-similar problems
-- **Checkpoint week:** Yes
+- **Checkpoint week:** Optional if using the stretch path
 
 ## Learning objectives
 - Identify a valid base case in a recursive method.

@@ -45,7 +45,7 @@ This guide turns the repository into a repeatable Java 101 teaching workspace bu
 
 ## Assessment cadence
 - Weekly: one exit ticket plus one homework/lab task in every week folder
-- Checkpoints: use Weeks 04, 08, 12, and 16 as cumulative review points
+- Checkpoints: use Week 04 and Week 12 on the core path; use Week 08 and Week 16 as optional cumulative checkpoints when you keep the stretch units in the schedule
 - Capstone: Week 17 includes scope planning for a final mini-project or demo day
 
 ## Pacing guidance

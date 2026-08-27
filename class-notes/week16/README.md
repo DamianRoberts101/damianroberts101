@@ -3,7 +3,7 @@
 - **Chapter:** `ch16`
 - **Tier:** Stretch
 - **Focus:** simulation extensions, automata, rule changes
-- **Checkpoint week:** Yes
+- **Checkpoint week:** Optional if using the stretch path
 
 ## Learning objectives
 - Compare two simulation rule systems.
