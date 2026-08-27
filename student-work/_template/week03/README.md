@@ -9,9 +9,9 @@
 - `src/Week03InputStarter.java`
 
 ## What to do
-- Ask the user for their name and a whole number.
-- Echo the values back in one sentence.
-- Add one random number and compare it to the user entry.
+- Run the starter and explain how input, randomness, and comparison work together.
+- Change the prompts or messages so the program feels more like a game.
+- Add one more hint, replay idea, or formatting improvement after the comparison.
 
 ## Practice extension
 - Run `ScannerBug` and explain the unexpected behavior.

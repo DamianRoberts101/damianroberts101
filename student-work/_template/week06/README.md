@@ -9,9 +9,9 @@
 - `src/Week06LoopsStarter.java`
 
 ## What to do
-- Finish the loop that sums numbers from 1 to 5.
-- Add a second loop that prints only even numbers.
-- Explain the final value of the accumulator.
+- Trace the two provided loops and explain what each one does.
+- Change one loop bound or step value and predict the new output before you run it.
+- Add one more loop and explain the final value of any accumulator you use.
 
 ## Practice extension
 - Print counting patterns and multiplication rows.

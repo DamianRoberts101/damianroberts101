@@ -14,7 +14,11 @@ public class Week03InputStarter {
 
             int secret = random.nextInt(10) + 1;
             System.out.println(name + ", you guessed " + guess + ".");
-            System.out.println("Random number: " + secret);
+            if (guess == secret) {
+                System.out.println("Nice job! You matched the secret number.");
+            } else {
+                System.out.println("Not a match this time. The secret number was " + secret + ".");
+            }
         }
     }
 }

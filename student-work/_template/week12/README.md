@@ -9,9 +9,9 @@
 - `src/Week12SearchStarter.java`
 
 ## What to do
-- Create an array of item names.
-- Write a method that searches for a target name.
-- Print whether the target was found.
+- Run the starter and explain how the `contains` method searches the array.
+- Change the item list and target value, then test the result.
+- Add one more search or reporting feature and print the outcome.
 
 ## Practice extension
 - Trace a search through card-like data.

@@ -9,9 +9,9 @@
 - `src/Week07ArraysStarter.java`
 
 ## What to do
-- Loop through the sample scores array.
-- Compute the total score.
-- Find and print the maximum score.
+- Run the sample array report and explain how the loop updates `total` and `max`.
+- Replace the sample scores with your own data and compare the new output.
+- Add one more summary such as an average, count above 80, or lowest score.
 
 ## Practice extension
 - Find the largest value in an array.

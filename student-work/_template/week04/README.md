@@ -9,9 +9,9 @@
 - `src/Week04MethodsStarter.java`
 
 ## What to do
-- Implement the provided greeting method.
-- Add a second helper that returns a doubled number.
-- Call both helpers from `main`.
+- Read the provided helper methods and explain what each one returns or prints.
+- Change the argument values in `main` and describe how the output changes.
+- Add one more helper method and call it from `main`.
 
 ## Practice extension
 - Refactor repeated print logic into a helper method.

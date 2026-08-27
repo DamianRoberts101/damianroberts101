@@ -9,9 +9,9 @@
 - `src/Week05ConditionalsStarter.java`
 
 ## What to do
-- Complete the pass/fail conditional.
-- Add an `else if` branch for a high score message.
-- Test at least three score values.
+- Run the starter with several score values and record which branch runs each time.
+- Change the score thresholds or messages to match a grading rule your class uses.
+- Add one more branch or output message and test at least three score values.
 
 ## Practice extension
 - Classify numbers as positive, negative, or zero.

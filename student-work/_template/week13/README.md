@@ -10,8 +10,8 @@
 
 ## What to do
 - Read the two starter classes and explain each responsibility.
-- Add one method that passes data from one class to another.
-- Run the client to verify the interaction.
+- Change the interaction or add one more method that passes data from one class to another.
+- Run the client to verify the updated interaction.
 
 ## Practice extension
 - Map class responsibilities in a small card game.

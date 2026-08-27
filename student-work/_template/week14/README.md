@@ -9,9 +9,9 @@
 - `src/Week14GameFlowStarter.java`
 
 ## What to do
-- Read the included flow comments.
+- Read the starter output and connect it to the larger `Eights` example in the chapter.
 - Add a short summary of one player turn.
-- Identify which class should own one new game rule.
+- Identify which class should own one new game rule or score-tracking feature.
 
 ## Practice extension
 - Trace one complete player turn in `Eights`.

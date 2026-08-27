@@ -9,9 +9,9 @@
 - `src/Week10ObjectsStarter.java`
 
 ## What to do
-- Create and print a `Book` object.
-- Call a helper that changes one field.
-- Print the object again to observe the updated state.
+- Create and print the provided `Book` object using your own title values.
+- Call the helper that changes one field and describe what changed.
+- Add one more field, getter, or update method and print the result again.
 
 ## Practice extension
 - Draw reference diagrams for object assignments.
