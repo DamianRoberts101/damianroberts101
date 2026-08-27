@@ -10,6 +10,7 @@ public class Week03InputStarter {
             String name = in.nextLine();
             System.out.print("Enter a whole number: ");
             int guess = in.nextInt();
+            in.nextLine();
 
             int secret = random.nextInt(10) + 1;
             System.out.println(name + ", you guessed " + guess + ".");
