@@ -9,9 +9,9 @@
 - `src/Week08RecursionStarter.java`
 
 ## What to do
-- Fill in the base case for the countdown method.
-- Add the recursive step that moves toward the base case.
-- Run the method with at least two starting values.
+- Trace the provided `countdown` method with at least two starting values.
+- Change the output so the base case prints a message of your choice.
+- Add one more recursive method or extend `countdown` with an extra feature.
 
 ## Practice extension
 - Trace a simple recursive countdown.

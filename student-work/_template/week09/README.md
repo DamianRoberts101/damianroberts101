@@ -9,9 +9,9 @@
 - `src/Week09UtilitiesStarter.java`
 
 ## What to do
-- Complete the `isValidScore` helper.
+- Read the `isValidScore` helper and explain what it checks.
 - Use the helper before printing the final message.
-- Test the program with valid and invalid data.
+- Add one more validation or reporting rule and test the program with valid and invalid data.
 
 ## Practice extension
 - Add input validation to a small console tool.

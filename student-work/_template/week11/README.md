@@ -9,9 +9,9 @@
 - `src/Week11ClassDesignStarter.java`
 
 ## What to do
-- Finish the constructor assignments.
-- Add a `summary` method that returns a short description.
-- Create two objects in `main` and print their summaries.
+- Read the constructor and `summary` method, then explain what each one does.
+- Create at least one more object in `main` and print its summary.
+- Add one more behavior or field to the class and update the output to use it.
 
 ## Practice extension
 - Instantiate `Time` objects and call their methods.
