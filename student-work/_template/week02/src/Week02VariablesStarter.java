@@ -8,6 +8,6 @@ public class Week02VariablesStarter {
         System.out.println("Student: " + name);
         System.out.println("Age: " + age);
         System.out.println("GPA: " + gpa);
-        System.out.println("Years until next goal: " + ((4 - age % 4) % 4));
+        System.out.println("Age next year: " + (age + 1));
     }
 }

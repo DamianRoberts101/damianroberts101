@@ -22,10 +22,12 @@ Welcome to the Java 101 workspace.
 If your class is using the provided PowerShell scripts:
 
 ```powershell
-cd D:\java\ThinkJava101
+cd <path-to-repo>
 .\scripts\compile-chapter.ps1 -Chapter ch01
 .\scripts\run-chapter.ps1 -Chapter ch01 -MainClass Hello
 ```
+
+Replace `<path-to-repo>` with the folder where you cloned the repository.
 
 If your class is working directly from a terminal with `javac` and `java`, your instructor may provide alternate commands for your environment.
 
